@@ -2,7 +2,7 @@
 
 <img src="./public/icons/icon-512.png" width="96" alt="Aniraku icon" />
 
-# Aniraku
+# Aniplex
 
 Open-source anime discovery and viewing for people who want to find something, watch it, and come back without losing their place.
 
@@ -18,9 +18,9 @@ Open-source anime discovery and viewing for people who want to find something, w
 
 ---
 
-## Support Aniraku
+## Support Aniplex
 
-Aniraku is open source. Voluntary support helps fund **hosting, releases, and open-source development** and never changes access to site features.
+Aniplex is open source. Voluntary support helps fund **hosting, releases, and open-source development** and never changes access to site features.
 
 ## Sponsor☕💘
 
@@ -38,9 +38,9 @@ Aniraku is open source. Voluntary support helps fund **hosting, releases, and op
 
 Read the full [Support Guide](./SUPPORT.md).
 
-## What Aniraku is
+## What Aniplex is
 
-Aniraku keeps discovery, playback, watch history, ratings, bookmarks, comments, and recommendations close to the title you are watching. The goal is simple: spend less time moving between pages and more time watching.
+Aniplex keeps discovery, playback, watch history, ratings, bookmarks, comments, and recommendations close to the title you are watching. The goal is simple: spend less time moving between pages and more time watching.
 
 The main flow is:
 
