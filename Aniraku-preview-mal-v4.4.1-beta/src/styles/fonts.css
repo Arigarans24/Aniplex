@@ -1,0 +1,10 @@
+/* Font tokens — Google Fonts stack loaded via <link> in index.html
+   (mirrors Aniraku: Rubik body, Agbalumo brand, Orbitron display).
+   Body text renders through var(--app-font-family) (themes.css).
+   Subtitle picker options are system fonts + bundled display faces
+   (Homemade Apple / Butterfly Kids, same as Aniraku's player). */
+:root {
+  --font-body: 'Rubik', ui-sans-serif, system-ui, sans-serif;
+  --font-brand: 'Agbalumo', cursive;
+  --font-display: 'Orbitron', 'Rajdhani', monospace;
+}

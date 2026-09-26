@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/static.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/genres.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/anime-1.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/anime-2.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/anime-3.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/anime-4.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.aniraku.tech/sitemaps/anime-5.xml</loc>
+    <lastmod>2026-09-26</lastmod>
+  </sitemap>
+</sitemapindex>

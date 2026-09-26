@@ -1,0 +1,53 @@
+{
+  "name": "aniraku",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "preview:full": "node scripts/preview-server.mjs",
+    "lint": "eslint .",
+    "test:bots": "node scripts/bot-smoke-test.mjs",
+    "test:embed-csp": "node scripts/test-embed-csp-policy.mjs",
+    "test:kiwi-resolver": "node scripts/test-kiwi-resolver.mjs",
+    "test:anime-detail-loading": "node scripts/test-anime-detail-loading.mjs",
+    "test:watch-source-suppression": "node scripts/test-watch-source-suppression.mjs",
+    "test:watch-proxy-url": "node scripts/test-watch-proxy-url.mjs",
+    "test:watch-timeline-hover": "node scripts/test-watch-timeline-hover.mjs",
+    "test:watch-direct-fallback": "node scripts/test-watch-direct-fallback.mjs",
+    "test:profile-title-safety": "node scripts/test-profile-title-safety.mjs",
+    "test:e2e": "playwright test",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "postbuild": "echo 'SEO files generated successfully'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "@tanstack/react-query": "^4.36.1",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "artplayer": "^5.4.0",
+    "axios": "^1.8.4",
+    "dashjs": "^5.2.0",
+    "hls.js": "^1.6.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.18.0",
+    "styled-components": "^6.1.14",
+    "swiper": "^14.0.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@playwright/test": "^1.62.1",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.39.5",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "vite": "^6.3.2"
+  }
+}
